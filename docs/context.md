@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Ao buscar na internet informações sobre educação financeira, nos deparamos com uma infinidade de conteúdo.  Para pessoas leigas no assunto, escolher materiais confiáveis diante a tantas opções pode ser difícil no primeiro momento. Pensando nisso criamos uma aplicação web que fará a seleção desses conteúdos desde a matemática financeira básica até os primeiros investimentos. O programa visa ajudar jovens e adultos que estão em busca de conhecimentos sobre o mundo das finanças.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
