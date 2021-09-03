@@ -15,13 +15,14 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+OBJETIVO GERAL:  Desenvolver um software para contribuir com a educação financeira da sociedade brasileira, sobretudo jovens e adultos com faixa etária entre 14 e 35 anos, conduzindo-a ao conhecimento a respeito do uso adequado e organizado dos recursos financeiros, a fim de fortalecer a autonomia e a independência monetária.
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+OBJETIVOS ESPECÍFICOS:
+1 – Descrever o que é educação financeira e sua relevância para o crescimento pessoal e estabilidade emocional de cada indivíduo.
+2 – Selecionar materiais, ferramentas e ambientes web que realizam esclarecimentos sobre finanças, com o intuito de despertar no indivíduo uma postura adequada e consciente para o correto uso do dinheiro.
+3 – Destacar a importância do controle de gastos, tendo em vista o alcance de um orçamento pessoal saudável.
+4 – Mostrar a pertinência da atitude de economizar e fazer investimentos inteligentes constantemente, bem como levar o indivíduo a refletir a respeito da necessidade de estabelecer metas e objetivos financeiros de curto, médio e longo prazo.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
