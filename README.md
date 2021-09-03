@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Nome completo do aluno 1
-* gabriel Bernardo
+* Gabriel Bernardo
 * Nome completo do aluno 3
 * Mikaele Thainara Rezende Costa
 * Nome completo do aluno 5
