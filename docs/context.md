@@ -26,12 +26,10 @@ OBJETIVOS ESPECÍFICOS:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Ao realizar pesquisas na internet, é notório, a quantidade de informações, conteúdos e até mesmo cursos sobre educação financeira. Porém, nem sempre essas informações estão
+organizadas de forma a facilitar a vida das pessoas que estão buscando adquirir conhecimento mas que ainda são leigas em relação ao assunto. 
+A nossa aplicação web vem para ser um intermediador, a fim de organizar os diversos conteúdos que estão espalhados pela rede e simplificar a vida das pessoas que estão em busca de
+conhecer mais sobre educação financeira.
 
 ## Público-Alvo
 
