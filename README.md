@@ -10,9 +10,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Gabriel Bernardo
+
 * Daniel José da Mota Ribeiro
+* Gabriel Bernardo
 * Mikaele Thainara Rezende Costa
 * Renan Silva Rodrigues
 * Tulio Ribeiro Maia
