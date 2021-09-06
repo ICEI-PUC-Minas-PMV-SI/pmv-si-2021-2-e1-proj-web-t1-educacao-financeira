@@ -5,14 +5,14 @@ Ao buscar na internet informações sobre educação financeira, nos deparamos c
 ## Problema
 Atualmente é possível perceber uma crescente de conteúdos relacionados à educação financeira na internet, compartilhados em sites, blogs, canais do youtube e em redes sociais, com influenciadores digitais que cada vez mais conquistam notoriedade. Com isso vemos também o aumento do público que busca este assunto, entretanto, essa grande diversidade de conteúdo pode fazer com que o iniciante tenha dificulade de saber por onde começar, que tipo de informação consumir, cursos, materiais relevantes e quais influenciadores mais se aproximam do seu perfil. A falta de uma curadoria de conteúdo, pode fazer com que o iniciante perca mais tempo do que deveria buscando as referências ideais para o seu propósito e consequentemente a perda de interesse no assunto.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+<!-- Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/) -->
 
 ## Objetivos
 OBJETIVO GERAL:  Desenvolver um software para contribuir com a educação financeira da sociedade brasileira, sobretudo jovens e adultos com faixa etária entre 14 e 35 anos, conduzindo-a ao conhecimento a respeito do uso adequado e organizado dos recursos financeiros, a fim de fortalecer a autonomia e a independência monetária.
