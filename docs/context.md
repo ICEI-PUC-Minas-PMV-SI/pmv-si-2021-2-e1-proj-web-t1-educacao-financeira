@@ -33,7 +33,13 @@ conhecer mais sobre educação financeira.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
+O público Alvo são brasileiros, jovens e adultos, faixa etária de 14 a 35 anos que buscam adquirir mais conhecimentos sobre educação financeira.
+
+Pessoas leigas que desejam desde cedo administrar melhor o seu dinheiro. Que começaram compreender a importância da educação financeira e estão atrás de mais conteúdos sobre o tema de educação financeira e investimentos.
+
+Pessoas que não sabem por onde começar. A como poupar e investir melhor o seu dinheiro.
+
+<!-- Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
 hierárquicas, etc.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
@@ -42,4 +48,4 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/) -->
