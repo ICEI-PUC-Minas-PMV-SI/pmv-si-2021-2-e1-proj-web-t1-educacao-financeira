@@ -6,7 +6,8 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Curadoria de conteúdos relacionados à educação financeira na internet, reunindo num só ambiente vídeos, blogs, cursos, notícias e personalidades de destaque. Facilitando a inclusão de pessoas que buscam aprender mais sobre este universo.
+
 
 ## Integrantes
 
