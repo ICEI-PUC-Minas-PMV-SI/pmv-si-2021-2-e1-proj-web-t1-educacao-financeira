@@ -76,10 +76,13 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|ID| Restrição                                                                              |
+|--|----------------------------------------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre                                  |
+|02| Não pode ser desenvolvido um módulo de backend                                         |
+|03| Os cursos que estarão no projeto devem ser gratuitos                                   |
+|04| Todos cursos e demais materiais de apoio do projeto devem partir de fontes confiáveis  |
+|05| O projeto contemplará apenas conteúdos relacionados ao mundo das finanças              |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
