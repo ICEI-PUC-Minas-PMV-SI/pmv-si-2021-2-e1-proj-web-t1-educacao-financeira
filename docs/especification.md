@@ -46,9 +46,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-RF-001	Permitir que o usuário seja conduzido para o software adequado a partir das informações desejadas.	ALTA
-RF-002	Disponibilizar abas para o usuário navegar, ler sínteses e fazer uma tomada de decisão sobre qual informação pretende obter.	MÉDIA
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-001| Permitir que o usuário seja conduzido para o software adequado a partir das informações desejadas.  
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 
