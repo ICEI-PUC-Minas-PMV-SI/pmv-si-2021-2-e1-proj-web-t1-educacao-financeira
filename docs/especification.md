@@ -47,26 +47,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário seja conduzido para o software adequado a partir das informações desejadas. |ALTA |
-|RF-002| Disponibilizar abas para que o usuário possa navegar, ler sínteses e fazer uma tomada de decisão sobre qual informação pretende obter. | MÉDIA |
+|RF-002| Disponibilizar abas para que o usuário possa navegar, ler sínteses e fazer uma tomada de decisão sobre qual informação almeja obter.  | MÉDIA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O software deve ter suporte suficiente para ser executado em dispositivos iOS e Android.
-| MÉDIA | 
-|RNF-002| O FinHub deve estar disponível 24  horas por dia para todos os usuários.|  MÉDIA |
-
-|RNF-003| As requisições do usuário devem ser processadas em até 5 segundos.|  BAIXA |
+|-------|-------------------------|--
+|RNF-001| O sistema deve ter suporte para rodar em dispositivos iOS e Android. | MÉDIA | 
+|RNF-002| As requisições do usuário devem ser processadas em até 5 segundos.|  BAIXA |
+|RNF-003| O FinHub deve estar disponível 24  horas por dia para todos os usuários. |  BAIXA |
 |RNF-004| O sistema não armazenará nenhuma informação pessoal dos usuários.|  BAIXA |
+|RNF-005| As normas éticas, morais e  legais, tais como a LEI Nº 9.610, de 1998 e a LEI Nº 13.709, de 2018 devem ser respeitadas integralmente pelo sistema. |  BAIXA |
 
 
-|RNF-005| As normas éticas, morais e  legais, tais como a LEI Nº 9.610, de 1998 e a LEI Nº 13.709, de 2018 devem ser respeitadas integralmente pelo sistema.
-|  BAIXA |
-
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
