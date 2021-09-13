@@ -78,13 +78,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                                                                       |
-|--|-------------------------------------------------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre                                           |
-|02| Não pode ser desenvolvido um módulo de backend                                                  |
-|03| O projeto contemplará apenas conteúdos relacionados ao mundo das finanças                       |
-|04| O conteúdo do projeto deverá ser direcionado a jovens e adultos na faixa etária de 14 a 35 anos |
-|05| Os cursos que estarão no projeto devem ser gratuitos                                            |
-|06| Todos cursos e demais materiais de apoio do projeto devem partir de fontes confiáveis           |
-|07| A equipe não irá desenvolver nenhum material educativo                                          |
-|08| A aplicação web deverá fazer uma curadoria dos principais conteúdos destinados a pessoas leigas |
+|ID| Restrição                                                                             |
+|--|---------------------------------------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre                                 |
+|02| O projeto contemplará apenas conteúdos relacionados ao mundo das finanças             |
+|03| Os cursos que estarão no projeto devem ser gratuitos                                  |
+|04| Todos cursos e demais materiais de apoio do projeto devem partir de fontes confiáveis |
+|05| A equipe não irá desenvolver nenhum material educativo                                |
