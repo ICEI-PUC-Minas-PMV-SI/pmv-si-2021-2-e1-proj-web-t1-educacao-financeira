@@ -6,7 +6,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Nathalia tem 19 anos, é universitária estudante de engenharia. Pensa que além de crescimento profissional precisa buscar meios de encontrar estabilidade financeira e sente que é necessário procurar conteúdos relacionados à este assunto. Vê que sua família nunca buscou este tipo de edução e por isso nunca conseguiu adiministrar de maneira adequada as próprias finanças. Ouve de pessoas próximas que o assunto de finanças é confuso e complicado demais para entender e aplicar na prática. Preocupada com seu futuro e sem pessoas próximas especializadas no assunto, Nathália busca referências na internet sobre educação financeira.
+Nathalia tem 19 anos, é universitária estudante de engenharia. Pensa que além de crescimento profissional precisa buscar meios de encontrar estabilidade financeira e sente que é necessário procurar conteúdos relacionados à este assunto. Vê que sua família nunca buscou este tipo de educação e por isso nunca conseguiu administrar de maneira adequada as próprias finanças. Ouve de pessoas próximas que o assunto de finanças é confuso e complicado demais para entender e aplicar na prática. Preocupada com seu futuro e sem pessoas próximas especializadas no assunto, Nathália busca referências na internet sobre educação financeira.
 
 <!-- Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
@@ -24,7 +24,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
