@@ -33,17 +33,24 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Acessar conteúdos de finanças      | Aprender mais sobre o assunto          |
+|Usuário do sistema  | Escolher a plataforma de acesso ao conteúdo                    | Ter mais comodidade                                     |
+|Usuário do sistema  | Ter disponível acesso a conteúdos a qualquer momento           | Ter liberdade em escolher quando será o acesso          |
+|Usuário do sistema  | Poder avaliar se gostei ou não de um determinado conteúdo      | Passar feedback ao conteúdo disponibilizado             |
+|Usuário do sistema  | Escolher o conteúdo do qual mais me identifico                 | Obter novos conhecimentos                               |
+|Usuário do sistema  | Poder ter a acesso a bons conteúdos de diferentes e confiáveis fontes sobre educação financeira                          |                                 Ter uma vida financeira saudável e poder compartilhar novos conhecimentos com outras pessoas                                                    |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+|Administrador       | Disponibilizar acesso aos usuários 24 horas por dia                 | Acessarem os conteúdos disponibilizados no sistema |
+|Administrador       | Disponibilizar conteúdos diversificados sobre educação financeira   | Usuários leigos em busca de novos conhecimentos    |
+
+<!-- Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 > - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/) -->
 
 ## Requisitos
 
