@@ -1,8 +1,13 @@
 # Especificações do Projeto
 
+Com o aumento da busca de conteúdos relacionados a Educação Financeira e a grande quantidade e variedade de conteúdo sobre o tema que é possível encontrar através de buscas pela internet, a nossa aplicação web surge com a ideia de organizar essa variedade de conteúdo, afim de que um usuário iniciante, em Educação Financeira, possa ter uma maior facilidade em saber que tipo de conteúdo consumir para que possa ser despertado o interesse sobre esse assunto.
+
+Com isso, pretendemos mostrar os conteúdos que são mais relevantes e importantes inicialmente, apresentar os cursos gratuitos que estão disponíveis, divulgar vídeos, materiais e redes sociais de influenciadores que são relevantes sobre o tema.
+
+<!--
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto. -->
 
 ## Personas
 
