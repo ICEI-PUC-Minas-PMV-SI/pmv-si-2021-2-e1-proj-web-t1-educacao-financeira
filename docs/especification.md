@@ -82,6 +82,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|---------------------------------------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre                                 |
 |02| O projeto contemplará apenas conteúdos relacionados ao mundo das finanças             |
-|03| Os cursos que estarão no projeto devem ser gratuitos                                  |
-|04| Todos cursos e demais materiais de apoio do projeto devem partir de fontes confiáveis |
-|05| A equipe não irá desenvolver nenhum material educativo                                |
+|03| Todos cursos e demais materiais de apoio do projeto devem partir de fontes confiáveis |
+|04| A equipe não irá desenvolver nenhum material educativo                                |
