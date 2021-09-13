@@ -39,7 +39,6 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Usuário do sistema  | Poder avaliar se gostei ou não de um determinado conteúdo      | Passar feedback ao conteúdo disponibilizado             |
 |Usuário do sistema  | Escolher o conteúdo do qual mais me identifico                 | Obter novos conhecimentos                               |
 |Usuário do sistema  | Poder ter a acesso a bons conteúdos de diferentes e confiáveis fontes sobre educação financeira                          |                                 Ter uma vida financeira saudável e poder compartilhar novos conhecimentos com outras pessoas                                                    |
-
 |Administrador       | Disponibilizar acesso aos usuários 24 horas por dia                 | Acessarem os conteúdos disponibilizados no sistema |
 |Administrador       | Disponibilizar conteúdos diversificados sobre educação financeira   | Usuários leigos em busca de novos conhecimentos    |
 
