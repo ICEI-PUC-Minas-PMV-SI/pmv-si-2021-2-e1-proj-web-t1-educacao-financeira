@@ -33,14 +33,17 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Acessar conteúdos de finanças      | Aprender mais sobre o assunto          |
-|Usuário do sistema  | Escolher a plataforma de acesso ao conteúdo                    | Ter mais comodidade                                     |
-|Usuário do sistema  | Ter disponível acesso a conteúdos a qualquer momento           | Ter liberdade em escolher quando será o acesso          |
-|Usuário do sistema  | Poder avaliar se gostei ou não de um determinado conteúdo      | Passar feedback ao conteúdo disponibilizado             |
-|Usuário do sistema  | Escolher o conteúdo do qual mais me identifico                 | Obter novos conhecimentos                               |
-|Usuário do sistema  | Poder ter a acesso a bons conteúdos de diferentes e confiáveis fontes sobre educação financeira                          |                                 Ter uma vida financeira saudável e poder compartilhar novos conhecimentos com outras pessoas                                                    |
-|Administrador       | Disponibilizar acesso aos usuários 24 horas por dia                 | Acessarem os conteúdos disponibilizados no sistema |
-|Administrador       | Disponibilizar conteúdos diversificados sobre educação financeira   | Usuários leigos em busca de novos conhecimentos    |
+|Usuário do sistema  | Indicações de Cursos de finanças         | Obter novos conhecimentos             |
+|Usuário do sistema  | Indicação de Podcast de finanças         | Obter novos conhecimentos             |
+|Usuário do sistema  | Indicações de Livros de finanças         | Obter novos conhecimentos             |
+|Usuário do sistema  | Ter acesso a Vídeos de finanças          | Obter novos conhecimentos             |
+|Usuário do sistema  | Indicações de Planilhas de finanças      | Auxiliar na gestão financeira         |
+|Usuário do sistema  | Indicações de App's de finanças          | Auxiliar na gestão financeira         |
+|Usuário do sistema  | Comentar sobre os conteúdos              | Interagir com outros usuários da plataforma                                                               |
+|Usuário do sistema  | Ter acesso aos principais influenciadores                                        | Aprender mais sobre o assunto                                     |
+|Usuário do sistema  | Poder avaliar se gostei ou não de um determinado conteúdo                        | Passar feedback ao conteúdo disponibilizado                       |
+|Administrador       | Disponibilizar conteúdos diversificados sobre educação financeira                | Usuários leigos em busca de novos conhecimentos                   |
+|Administrador       | Ordenar conteúdos de acordo com a popularidade                                   | Priorizar a exibição dos conteúdos com maior quantidade de likes  |
 
 <!-- Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
