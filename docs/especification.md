@@ -62,8 +62,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário seja conduzido para o software adequado a partir das informações desejadas. |ALTA |
-|RF-002| Disponibilizar abas para que o usuário possa navegar, ler sínteses e fazer uma tomada de decisão sobre qual informação almeja obter.  | MÉDIA |
+|RF-001| O sistema deve listar Cursos gratuitos e não gratuitos tangentes à educação financeira. | ALTA |
+|RF-002| O sistema deve listar Podcasts  com conteúdo relacionado à educação financeira.  | ALTA |
+|RF-003| O sistema deve cadastrar acervo com indicações de livros relacionados à educação financeira. | MÉDIA |
+|RF-004| O sistema deve disponibilizar indicações de vídeos acerca do conteúdo de finanças. | ALTA |
+|RF-005| O sistema deve disponibilizar indicações de vídeos acerca do conteúdo de finanças. | ALTA |
+|RF-006| O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças. | ALTA |
+|RF-007| O sistema deve disponibilizar um campo para o usuário registrar comentários sobre os conteúdos da plataforma. | ALTA |
+|RF-008| O sistema deve listar os principais influenciadores digitais que ministram conteúdo de educação financeira. | ALTA |
+|RF-009| O software deve permitir que o administrador efetue manutenção na plataforma (consulta, inclusão, exclusão e alteração de conteúdo). | ALTA |
+|RF-010| O sistema deve oferecer a ferramenta “like e deslike” para o usuário fazer avaliação dos conteúdos disponibilizados na plataforma.| ALTA |
+|RF-011| O sistema deve permitir o usuário pesquisar os App´s  a partir do critério de usabilidade.| MÉDIA |
+|RF-012| O usuário deve ser capaz de pesquisar os cursos de educação financeira a partir do critério “gratuito / não gratuito”. | MÉDIA |
+|RF-013| O usuário deve ser capaz de acessar e manusear as planilhas de gestão de orçamento. | MÉDIA |
+|RF-014| O sistema deve permitir, a partir do registro de comentários, o usuário interagir com outros usuários da plataforma. | MÉDIA |
+|RF-015| O software dever permitir o administrador organizar os conteúdos de finanças de acordo com o índice de popularidade, interesse e avaliação. | MÉDIA |
+
 
 
 ### Requisitos não Funcionais
