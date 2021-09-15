@@ -64,7 +64,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| O sistema deve listar Cursos gratuitos e não gratuitos tangentes à educação financeira. | ALTA |
 |RF-002| O sistema deve listar Podcasts  com conteúdo relacionado à educação financeira.  | ALTA |
-|RF-003| O sistema deve cadastrar acervo com indicações de livros relacionados à educação financeira. | MÉDIA |
+|RF-003| O sistema deve cadastrar acervo com indicações de livros relacionados à educação financeira. | ALTA 
 |RF-004| O sistema deve disponibilizar indicações de vídeos acerca do conteúdo de finanças. | ALTA |
 |RF-005| O sistema deve disponibilizar indicações de vídeos acerca do conteúdo de finanças. | ALTA |
 |RF-006| O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças. | ALTA |
