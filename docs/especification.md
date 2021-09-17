@@ -71,11 +71,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| O sistema deve listar os principais influenciadores digitais que ministram conteúdo de educação financeira. | ALTA |
 |RF-008| O software deve permitir que o administrador efetue manutenção na plataforma (consulta, inclusão, exclusão e alteração de conteúdo). | ALTA |
 |RF-009| O sistema deve oferecer a ferramenta “like e deslike” para o usuário fazer avaliação dos conteúdos disponibilizados na plataforma.| ALTA |
-|RF-010| O sistema deve permitir o usuário pesquisar os App´s  a partir do critério de usabilidade.| MÉDIA |
-|RF-011| O usuário deve ser capaz de pesquisar os cursos de educação financeira a partir do critério “gratuito / não gratuito”. | MÉDIA |
-|RF-012| O usuário deve ser capaz de acessar e manusear as planilhas de gestão de orçamento. | MÉDIA |
-|RF-013| O sistema deve permitir, a partir do registro de comentários, o usuário interagir com outros usuários da plataforma. | MÉDIA |
-|RF-014| O software dever permitir o administrador organizar os conteúdos de finanças de acordo com o índice de popularidade, interesse e avaliação. | MÉDIA |
+|RF-010| O usuário deve ser capaz de pesquisar os cursos de educação financeira a partir do critério “gratuito / não gratuito”. | MÉDIA |
+|RF-011| O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira. | MÉDIA |
+|RF-012| O sistema deve permitir, a partir do registro de comentários, o usuário interagir com outros usuários da plataforma. | MÉDIA |
+|RF-013| O software dever permitir o administrador organizar os conteúdos de finanças de acordo com o índice de popularidade, interesse e avaliação. | BAIXA |
 
 
 
