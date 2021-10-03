@@ -12,7 +12,6 @@ Curadoria de conteúdos relacionados à educação financeira na internet, reuni
 ## Integrantes
 
 
-* Daniel José da Mota Ribeiro
 * Gabriel Bernardo
 * Mikaele Thainara Rezende Costa
 * Renan Silva Rodrigues
