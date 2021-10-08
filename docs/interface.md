@@ -1,11 +1,9 @@
 
 # Projeto de Interface
 
-Wireframe: https://www.figma.com/file/TLmjasHfv585s7P9bG02n4/Wireframe?node-id=0%3A1
+Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
-<!-- Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.-->
+ Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
 ## User Flow
 
@@ -23,7 +21,9 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Wireframe: https://www.figma.com/file/TLmjasHfv585s7P9bG02n4/Wireframe?node-id=0%3A1
+
+<!-- ![Exemplo de Wireframe](img/wireframe-example.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
@@ -35,3 +35,4 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [Axure](https://www.axure.com/edu) (Licença Educacional)
 > - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+-->
