@@ -1,0 +1,60 @@
+
+/* paleta de cores 
+https://flatcolors.net/palette/518-cold-spring-beach#
+https://flatcolors.net/palette/286-flat-blue-design
+https://flatcolors.net/palette/999-exnius-web-design-03# */
+
+
+html {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  background-color:#F1F5F9;
+}
+body {
+  font-family: Helvetica;
+  font-weight: 300;
+  color: rgba(28, 54, 83, 0.6);
+}
+.navbar-toggler {
+  color: rgba(28, 54, 83, 0.6);
+}
+h1 {
+  font-family: Helvetica;
+  padding-top: 20px;
+  text-align: center;
+  align-items: center;
+  color:#305775;
+}
+.title, .sub-title, .card-title {
+  color:#305775;
+}
+.title {
+  margin: 25px;
+}
+#home-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  position: relative;
+}
+.card-group {
+  margin: 20px;
+}
+.card-text {
+  color: #4A453A;
+}
+.container-fluid a:hover {
+  background-color: #DDECF0;
+  display: inline;
+}
+form {
+  margin: 20px;
+}
+.form-group {
+  margin: 5px;
+}
+.copyright {
+  text-align: center;
+}
