@@ -58,3 +58,11 @@ form {
 .copyright {
   text-align: center;
 }
+
+.container{
+  margin-top: 2%
+}
+
+.row-list {
+  margin-top: 2%;
+}
