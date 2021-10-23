@@ -57,6 +57,7 @@ form {
 }
 .copyright {
   text-align: center;
+  margin-top: 5%;
 }
 
 .container{
@@ -64,5 +65,9 @@ form {
 }
 
 .row-list {
-  margin-top: 2%;
+  margin-top: 5%;
+}
+
+#list{
+  margin-top: 5%;
 }
