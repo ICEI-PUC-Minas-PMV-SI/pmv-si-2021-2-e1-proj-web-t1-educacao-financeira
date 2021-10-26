@@ -71,3 +71,11 @@ form {
 #list{
   margin-top: 5%;
 }
+
+#nav-influencers {
+  justify-content: center;
+  font-size: 110%;
+}
+.nav-item {
+  margin-left: 10px
+}
