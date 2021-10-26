@@ -75,6 +75,7 @@ form {
 #nav-influencers {
   justify-content: center;
   font-size: 110%;
+  background-color: white;
 }
 .nav-item {
   margin-left: 10px
