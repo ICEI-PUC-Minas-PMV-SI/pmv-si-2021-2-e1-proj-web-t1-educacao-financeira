@@ -80,3 +80,8 @@ form {
 .nav-item {
   margin-left: 10px
 }
+#influencer-photo{
+  width: 395px;
+  height: 395px;
+  object-fit: cover;
+}
