@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Podcast</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
+    <script src="comentario.js"></script>
     <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
@@ -113,6 +114,18 @@
             </div>
         </div>
     </div>
+
+    <!-- Formulário para fazer comentários-->
+    <form>
+        <label for="exampleFormControlInput1">Deixe seu comentário:</label>
+        <div class="form-group">
+          <input type="text" class="form-control" id="formName" placeholder="Insira seu nome">
+        </div>
+        <div class="form-group">
+          <textarea class="form-control" id="formComent" rows="3" placeholder="Insira seu comentário"></textarea>
+        </div>
+        <button type="button" onclick="publicaComentario()" class="btn btn-primary"> Publicar </button>
+      </form>
 
     <!-- rodapé -->
     <footer>
