@@ -1,221 +1,327 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <!-- <title>repl.it</title> -->
-    <title>Livros</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
-    </head>
-  <body>
-    <!-- Menu navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <!-- <title>repl.it</title> -->
+  <title>Livros</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+  <!-- importa lógica para salvar comentários no LocalStorage com JSON -->
+  <script src="comentario.js"></script>
+</head>
+
+<body>
+  <!-- Menu navbar -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top"> -->
-     <div class="nav-barr"></div>
-      <div class="container-fluid">
-        <a class="navbar-brand" href="home.html">FinHub</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavDropdown">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link" href="courses.html">Cursos</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="influencers.html">Influencers</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="livros.html">Livros</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="podcast.html">Podcast</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="support.html" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Material de Apoio
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                <li><a class="dropdown-item" href="spreadsheets.html">Planilhas</a></li>
-                <li><a class="dropdown-item" href="apps.html">Aplicativos</a></li>
-              </ul>
-            </li>
-          </ul>
+    <div class="nav-barr"></div>
+    <div class="container-fluid">
+      <a class="navbar-brand" href="home.html">FinHub</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+        aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="courses.html">Cursos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="influencers.html">Influencers</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="livros.html">Livros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="podcast.html">Podcast</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="support.html" id="navbarDropdownMenuLink" role="button"
+              data-bs-toggle="dropdown" aria-expanded="false">
+              Material de Apoio
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <li><a class="dropdown-item" href="spreadsheets.html">Planilhas</a></li>
+              <li><a class="dropdown-item" href="apps.html">Aplicativos</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+    </div>
+  </nav>
+  <!-- Cards -->
+  <h4 class="title">Livros</h4>
+  <br><br>
+
+  <div id="me-poupe">
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="card-group">
+          <img src="image/livros/livro_me_poupe.jpg" class="card-img-top" id="influencer-photo" alt="me-poupe">
         </div>
       </div>
-      </div>
-    </nav>
-    <!-- Cards -->
-    <h4 class="title">Livros</h4>
-    <br><br>
+      <div class="col-sm-6">
+        <div class="card-body">
+          <h5 class="card-title">Me Poupe!</h5>
+          <p class="card-text">Como economizar no dia a dia? Como poupar mesmo ganhando pouco? Quais são os melhores (e
+            os piores) investimentos? Como poupar para o futuro sem abrir mão dos desejos e necessidades do presente?
 
-    <div id="me-poupe">
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="card-group">
-            <img src="image/livros/livro_me_poupe.jpg" class="card-img-top" id="influencer-photo" alt="me-poupe">
-          </div>
-        </div>
-        <div class="col-sm-6">
-          <div class="card-body">
-            <h5 class="card-title">Me Poupe!</h5>
-            <p class="card-text">Como economizar no dia a dia? Como poupar mesmo ganhando pouco? Quais são os melhores (e os piores) investimentos? Como poupar para o futuro sem abrir mão dos desejos e necessidades do presente?
+            Sei que você tem muitas dúvidas sobre o que fazer com o seu dinheiro. Sei também que muita gente
+            simplesmente não faz nada com ele – a não ser pagar contas e juntar moedinhas para chegar até o fim do mês.
 
-              Sei que você tem muitas dúvidas sobre o que fazer com o seu dinheiro. Sei também que muita gente simplesmente não faz nada com ele – a não ser pagar contas e juntar moedinhas para chegar até o fim do mês.
-            
-              É por isso que estou aqui.</p> 
-            <p><a href="https://www.google.com/search?q=livro+me+poupe&source=lmns&tbm=shop&bih=600&biw=1366&hl=pt-BR&sa=X&ved=2ahUKEwih3Kuvj_jzAhWoOLkGHX5RA1AQ_AUoAXoECAEQAQ" target="_blank">Compre aqui</a></p>
-            <br>
-            <br>
-            <iframe src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYourPoetryPoint&width&layout=standard&action=like&show_faces=true&share=true&height=80" scrolling="no" frameborder="0" style="border:none; width: 450px; height:80px;" allowTransparency="true"></iframe>
-          </div>
+            É por isso que estou aqui.</p>
+          <p><a
+              href="https://www.google.com/search?q=livro+me+poupe&source=lmns&tbm=shop&bih=600&biw=1366&hl=pt-BR&sa=X&ved=2ahUKEwih3Kuvj_jzAhWoOLkGHX5RA1AQ_AUoAXoECAEQAQ"
+              target="_blank">Compre aqui</a></p>
+          <br>
+          <br>
+          <iframe
+            src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYourPoetryPoint&width&layout=standard&action=like&show_faces=true&share=true&height=80"
+            scrolling="no" frameborder="0" style="border:none; width: 450px; height:80px;"
+            allowTransparency="true"></iframe>
         </div>
       </div>
     </div>
+  </div>
 
-    <div id="mil-ao-milhao">
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="card-group">
-            <img src="image/livros/livro_mil_ao_milhao.jpg" class="card-img-top" id="influencer-photo" alt="mil-ao-milhao">
-          </div>
+  <div id="mil-ao-milhao">
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="card-group">
+          <img src="image/livros/livro_mil_ao_milhao.jpg" class="card-img-top" id="influencer-photo"
+            alt="mil-ao-milhao">
         </div>
-        <div class="col-sm-6">
-          <div class="card-body">
-            <h5 class="card-title">Do mil ao milhão</h5>
-            <p class="card-text">Em seu primeiro livro, Thiago Nigro, criador da plataforma O Primo Rico, ensina aos leitores os três pilares para atingir a independência financeira: gastar bem, investir melhor e ganhar mais. Por meio de dados e de sua própria experiência como investidor e assessor, Nigro mostra que a riqueza é possível para todos – basta estar disposto a aprender e se dedicar.</p> 
-            <p><a href="https://www.google.com/search?q=livro+do+mil+ao+milh%C3%A3o&sxsrf=AOaemvJ5zsYj_X-RwNmIkXBJ8mjeI1LvbA:1635803855545&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjKg-2dlPjzAhXlGrkGHWWGBPUQ_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1" target="_blank">Compre aqui</a></p>
-            <br>
-            <br>
-            <iframe src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYourPoetryPoint&width&layout=standard&action=like&show_faces=true&share=true&height=80" scrolling="no" frameborder="0" style="border:none; width: 450px; height:80px;" allowTransparency="true"></iframe>
-          </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="card-body">
+          <h5 class="card-title">Do mil ao milhão</h5>
+          <p class="card-text">Em seu primeiro livro, Thiago Nigro, criador da plataforma O Primo Rico, ensina aos
+            leitores os três pilares para atingir a independência financeira: gastar bem, investir melhor e ganhar mais.
+            Por meio de dados e de sua própria experiência como investidor e assessor, Nigro mostra que a riqueza é
+            possível para todos – basta estar disposto a aprender e se dedicar.</p>
+          <p><a
+              href="https://www.google.com/search?q=livro+do+mil+ao+milh%C3%A3o&sxsrf=AOaemvJ5zsYj_X-RwNmIkXBJ8mjeI1LvbA:1635803855545&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjKg-2dlPjzAhXlGrkGHWWGBPUQ_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1"
+              target="_blank">Compre aqui</a></p>
+          <br>
+          <br>
+          <iframe
+            src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYourPoetryPoint&width&layout=standard&action=like&show_faces=true&share=true&height=80"
+            scrolling="no" frameborder="0" style="border:none; width: 450px; height:80px;"
+            allowTransparency="true"></iframe>
         </div>
       </div>
     </div>
+  </div>
 
-    <div id="segredo-mente-milionaria">
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="card-group">
-            <img src="image/livros/livro_segredo_mente_milionaria.jpg" class="card-img-top" id="influencer-photo" alt="segredo-mente-milionaria">
-          </div>
+  <div id="segredo-mente-milionaria">
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="card-group">
+          <img src="image/livros/livro_segredo_mente_milionaria.jpg" class="card-img-top" id="influencer-photo"
+            alt="segredo-mente-milionaria">
         </div>
-        <div class="col-sm-6">
-          <div class="card-body">
-            <h5 class="card-title">Os segredos da mente milionária</h5>
-            <p class="card-text">Neste livro, Eker mostra como substituir uma mentalidade destrutiva – que você talvez nem perceba que tem – pelos "arquivos de riqueza", 17 modos de pensar e agir que distinguem os ricos das demais pessoas. Alguns desses princípios fundamentais são:
+      </div>
+      <div class="col-sm-6">
+        <div class="card-body">
+          <h5 class="card-title">Os segredos da mente milionária</h5>
+          <p class="card-text">Neste livro, Eker mostra como substituir uma mentalidade destrutiva – que você talvez nem
+            perceba que tem – pelos "arquivos de riqueza", 17 modos de pensar e agir que distinguem os ricos das demais
+            pessoas. Alguns desses princípios fundamentais são:
 
-              • Ou você controla o seu dinheiro ou ele controlará você.
-              
-              • O hábito de administrar as finanças é mais importante do que a quantidade de dinheiro que você tem.
-              
-              • A sua motivação para enriquecer é <span id="pontos">...</span><span id="mais">se ela possui uma raiz negativa, como o medo, a raiva ou a necessidade de provar algo a si mesmo, o dinheiro nunca lhe trará felicidade.
-              
-              • O segredo do sucesso não é tentar evitar os problemas nem se livrar deles, mas crescer pessoalmente para se tornar maior do que qualquer adversidade.
-              
-              • Os gastos excessivos têm pouco a ver com o que você está comprando e tudo a ver com a falta de satisfação na sua vida.
-              
-              O autor também ensina um método eficiente de administrar o dinheiro. Você aprenderá a estabelecer sua remuneração pelos resultados que apresenta e não pelas horas que trabalha. Além disso, saberá como aumentar o seu patrimônio líquido – a verdadeira medida da riqueza.
-              
-              A Ideia é fazer o seu dinheiro trabalhar para você tanto quanto você trabalha para ele. Para isso, é necessário poupar e investir em vez de gastar. "Enriquecer não diz respeito somente a ficar rico em termos financeiros", diz Eker. "É mais do que isso: trata-se da pessoa que você se torna para alcançar esse objetivo."</span></p> 
-            <button onclick="leiaMais()" id="btnLeiaMais">Leia Mais</button>
-            <p><a href="https://www.google.com/search?q=livro+segredo+da+mente+milion%C3%A1ria&sa=X&biw=1366&bih=657&tbm=shop&sxsrf=AOaemvJ4YEHEJp_hVemwUdhGx6l6-Ud2aA%3A1635803857856&ei=0WKAYeW1M8--5OUPq-yn0A0&oq=livro+segredo+da+mente+milion%C3%A1ria&gs_lcp=Cgtwcm9kdWN0cy1jYxADMgUIABCABDIFCAAQgAQyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIICAAQBxAFEB4yCAgAEAcQBRAeMggIABAIEB4QGDoECCMQJzoECAAQQzoKCAAQsQMQgwEQQzoLCAAQgAQQsQMQgwE6BAgAEBg6BggAEBYQHjoECAAQDToICAAQCBAHEB46CggAEAgQDRAeEBhKBAhBGABQlLcGWNfuBmDS8AZoAHAAeACAAf8BiAG2F5IBBjAuMjAuMpgBAKABAcABAQ&sclient=products-cc&ved=0ahUKEwil4vmelPjzAhVPH7kGHSv2CdoQ4dUDCAY&uact=5" target="_blank">Compre aqui</a></p>
-            <br>
-            <br>
-            <iframe src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYourPoetryPoint&width&layout=standard&action=like&show_faces=true&share=true&height=80" scrolling="no" frameborder="0" style="border:none; width: 450px; height:80px;" allowTransparency="true"></iframe>
-          </div>
+            • Ou você controla o seu dinheiro ou ele controlará você.
+
+            • O hábito de administrar as finanças é mais importante do que a quantidade de dinheiro que você tem.
+
+            • A sua motivação para enriquecer é <span id="pontos">...</span><span id="mais">se ela possui uma raiz
+              negativa, como o medo, a raiva ou a necessidade de provar algo a si mesmo, o dinheiro nunca lhe trará
+              felicidade.
+
+              • O segredo do sucesso não é tentar evitar os problemas nem se livrar deles, mas crescer pessoalmente para
+              se tornar maior do que qualquer adversidade.
+
+              • Os gastos excessivos têm pouco a ver com o que você está comprando e tudo a ver com a falta de
+              satisfação na sua vida.
+
+              O autor também ensina um método eficiente de administrar o dinheiro. Você aprenderá a estabelecer sua
+              remuneração pelos resultados que apresenta e não pelas horas que trabalha. Além disso, saberá como
+              aumentar o seu patrimônio líquido – a verdadeira medida da riqueza.
+
+              A Ideia é fazer o seu dinheiro trabalhar para você tanto quanto você trabalha para ele. Para isso, é
+              necessário poupar e investir em vez de gastar. "Enriquecer não diz respeito somente a ficar rico em termos
+              financeiros", diz Eker. "É mais do que isso: trata-se da pessoa que você se torna para alcançar esse
+              objetivo."</span></p>
+          <button onclick="leiaMais()" id="btnLeiaMais">Leia Mais</button>
+          <p><a
+              href="https://www.google.com/search?q=livro+segredo+da+mente+milion%C3%A1ria&sa=X&biw=1366&bih=657&tbm=shop&sxsrf=AOaemvJ4YEHEJp_hVemwUdhGx6l6-Ud2aA%3A1635803857856&ei=0WKAYeW1M8--5OUPq-yn0A0&oq=livro+segredo+da+mente+milion%C3%A1ria&gs_lcp=Cgtwcm9kdWN0cy1jYxADMgUIABCABDIFCAAQgAQyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIICAAQBxAFEB4yCAgAEAcQBRAeMggIABAIEB4QGDoECCMQJzoECAAQQzoKCAAQsQMQgwEQQzoLCAAQgAQQsQMQgwE6BAgAEBg6BggAEBYQHjoECAAQDToICAAQCBAHEB46CggAEAgQDRAeEBhKBAhBGABQlLcGWNfuBmDS8AZoAHAAeACAAf8BiAG2F5IBBjAuMjAuMpgBAKABAcABAQ&sclient=products-cc&ved=0ahUKEwil4vmelPjzAhVPH7kGHSv2CdoQ4dUDCAY&uact=5"
+              target="_blank">Compre aqui</a></p>
+          <br>
+          <br>
+          <iframe
+            src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYourPoetryPoint&width&layout=standard&action=like&show_faces=true&share=true&height=80"
+            scrolling="no" frameborder="0" style="border:none; width: 450px; height:80px;"
+            allowTransparency="true"></iframe>
         </div>
       </div>
     </div>
+  </div>
 
-    <div id="pai-rico-pai-pobre">
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="card-group">
-            <img src="image/livros/livro_pai_rico_pai_pobre.jpg" class="card-img-top" id="influencer-photo" alt="pai-rico-pai-pobre">
-          </div>
+  <div id="pai-rico-pai-pobre">
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="card-group">
+          <img src="image/livros/livro_pai_rico_pai_pobre.jpg" class="card-img-top" id="influencer-photo"
+            alt="pai-rico-pai-pobre">
         </div>
-        <div class="col-sm-6">
-          <div class="card-body">
-            <h5 class="card-title">Pai rico, Pai Pobre</h5>
-            <p class="card-text">Celebrando 20 anos como o livro n° 1 em finanças pessoais.A escola prepara as crianças para o mundo real? Essa é a primeira pergunta com a qual o leitor se depara neste livro. O recado é ousado e direto: boa formação e notas altas não bastam para assegurar o sucesso de alguém. O mundo mudou; a maioria dos jovens tem cartão de crédito, antes mesmo de concluir os estudos, e nunca teve aula sobre dinheiro, investimentos, juros etc. Ou seja, eles vão para a escola, mas continuam financeiramente improficientes, despreparados para enfrentar um mundo que valoriza mais as despesas do que a poupança.Para o autor, o conselho mais perigoso que se pode dar a um jovem nos dias de hoje é: “Vá para a escola, tire notas altas e depois procure um trabalho seguro.” O fato é que agora as regras são outras, e não existe mais emprego garantido para ninguém. Pai Rico, Pai Pobre demonstra que a questão não é ser <span id="pontos2">...</span><span id="mais2">empregado ou empregador, mas ter o controle do próprio destino ou delegá-lo a alguém. É essa a tese de Robert Kiyosaki neste livro substancial e visionário. Para ele, a formação proporcionada pelo sistema educacional não prepara os jovens para o mundo que encontrarão depois de formados.E como os pais podem ensinar aos filhos o que a escola relega? Essa é outra das muitas perguntas que o leitor encontra em Pai Rico, Pai Pobre. Nesse sentido, a proposta do autor é facilitar a tarefa dos pais. Quem entende de contabilidade deve esquecer seus conhecimentos acadêmicos, pois muitas das teorias expostas por Robert Kiyosaki contrariam os princípios contábeis comumente aceitos, e apresentam uma valiosa e moderna percepção do modo como se realizam os investimentos.A sociedade sofre mudanças radicais e, talvez, de proporções maiores do que as ocorridas em séculos passados. Não existe bola de cristal, mas algo é certo: a perspectiva global de transformações transcende nossa realidade imediata. Aconteça o que acontecer,só existem duas alternativas: segurança ou independência financeira. E o objetivo de Pai Rico, Pai Pobre é instruir o leitor e despertar sua inteligência financeira e a de seus filhos.“A principal razão pela qual as pessoas têm problemas financeiros é que passaram anos na escola, mas não aprenderam nada sobre dinheiro. O resultado é que elas aprendem a trabalhar por dinheiro… mas nunca a fazê-lo trabalhar para elas.” - Robert Kiyosaki.</span></p> 
-            <button onclick="leiaMais2()" id="btnLeiaMais2">Leia Mais</button>
-            <p><a href="https://www.google.com/search?q=livro+pai+rico+pai+pobre&sxsrf=AOaemvK7r_bYpLD8VcrfhT6852FNn1QtAA:1635804390060&source=lnms&tbm=shop&sa=X&ved=2ahUKEwiNit2clvjzAhUFrJUCHVQCA1kQ_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1" target="_blank">Compre aqui</a></p>
-            <br>
-            <br>
-            <iframe src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYourPoetryPoint&width&layout=standard&action=like&show_faces=true&share=true&height=80" scrolling="no" frameborder="0" style="border:none; width: 450px; height:80px;" allowTransparency="true"></iframe>
-          </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="card-body">
+          <h5 class="card-title">Pai rico, Pai Pobre</h5>
+          <p class="card-text">Celebrando 20 anos como o livro n° 1 em finanças pessoais.A escola prepara as crianças
+            para o mundo real? Essa é a primeira pergunta com a qual o leitor se depara neste livro. O recado é ousado e
+            direto: boa formação e notas altas não bastam para assegurar o sucesso de alguém. O mundo mudou; a maioria
+            dos jovens tem cartão de crédito, antes mesmo de concluir os estudos, e nunca teve aula sobre dinheiro,
+            investimentos, juros etc. Ou seja, eles vão para a escola, mas continuam financeiramente improficientes,
+            despreparados para enfrentar um mundo que valoriza mais as despesas do que a poupança.Para o autor, o
+            conselho mais perigoso que se pode dar a um jovem nos dias de hoje é: “Vá para a escola, tire notas altas e
+            depois procure um trabalho seguro.” O fato é que agora as regras são outras, e não existe mais emprego
+            garantido para ninguém. Pai Rico, Pai Pobre demonstra que a questão não é ser <span
+              id="pontos2">...</span><span id="mais2">empregado ou empregador, mas ter o controle do próprio destino ou
+              delegá-lo a alguém. É essa a tese de Robert Kiyosaki neste livro substancial e visionário. Para ele, a
+              formação proporcionada pelo sistema educacional não prepara os jovens para o mundo que encontrarão depois
+              de formados.E como os pais podem ensinar aos filhos o que a escola relega? Essa é outra das muitas
+              perguntas que o leitor encontra em Pai Rico, Pai Pobre. Nesse sentido, a proposta do autor é facilitar a
+              tarefa dos pais. Quem entende de contabilidade deve esquecer seus conhecimentos acadêmicos, pois muitas
+              das teorias expostas por Robert Kiyosaki contrariam os princípios contábeis comumente aceitos, e
+              apresentam uma valiosa e moderna percepção do modo como se realizam os investimentos.A sociedade sofre
+              mudanças radicais e, talvez, de proporções maiores do que as ocorridas em séculos passados. Não existe
+              bola de cristal, mas algo é certo: a perspectiva global de transformações transcende nossa realidade
+              imediata. Aconteça o que acontecer,só existem duas alternativas: segurança ou independência financeira. E
+              o objetivo de Pai Rico, Pai Pobre é instruir o leitor e despertar sua inteligência financeira e a de seus
+              filhos.“A principal razão pela qual as pessoas têm problemas financeiros é que passaram anos na escola,
+              mas não aprenderam nada sobre dinheiro. O resultado é que elas aprendem a trabalhar por dinheiro… mas
+              nunca a fazê-lo trabalhar para elas.” - Robert Kiyosaki.</span></p>
+          <button onclick="leiaMais2()" id="btnLeiaMais2">Leia Mais</button>
+          <p><a
+              href="https://www.google.com/search?q=livro+pai+rico+pai+pobre&sxsrf=AOaemvK7r_bYpLD8VcrfhT6852FNn1QtAA:1635804390060&source=lnms&tbm=shop&sa=X&ved=2ahUKEwiNit2clvjzAhUFrJUCHVQCA1kQ_AUoAXoECAEQAw&biw=1366&bih=657&dpr=1"
+              target="_blank">Compre aqui</a></p>
+          <br>
+          <br>
+          <iframe
+            src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYourPoetryPoint&width&layout=standard&action=like&show_faces=true&share=true&height=80"
+            scrolling="no" frameborder="0" style="border:none; width: 450px; height:80px;"
+            allowTransparency="true"></iframe>
         </div>
       </div>
     </div>
+  </div>
 
-    <div id="mais-esperto">
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="card-group">
-            <img src="image/livros/livro_mais_esperto.jpg" class="card-img-top" id="influencer-photo" alt="mais-esperto">
-          </div>
-        </div>
-        <div class="col-sm-6">
-          <div class="card-body">
-            <h5 class="card-title">Mais esperto que o diabo</h5>
-            <p class="card-text">Escrito em 1938, após uma das maiores crises econômicas, e precedendo a Segunda Guerra Mundial, este livro não somente é uma fonte de inspiração e coragem, mas deve ser considerado um manual para todas aquelas pessoas que desejam ser mais espertas que seus medos, problemas e limitações, pois, como o próprio Hill fala - em toda adversidade existe uma semente de benefício equivalente. Dessa forma, se você deseja ter mais força, coragem e fé em si mesmo, para vencer todas as adversidades que surgirem em seu caminho, este livro será um presente daquele que você deve amar sempre e muito - você mesmo. Quando amamos a nós mesmos e vivemos em paz e harmonia com nossa própria consciência, aí sim encontramos aquele que nos deu o presente da Vida. Sabendo mais sobre o Diabo e suas armadilhas mentais, acabamos nos aproximando mais de Deus.</p> 
-            <p><a href="https://www.google.com/search?q=livro+mais+esperto+que+o+diabo&sa=X&biw=1366&bih=657&tbm=shop&sxsrf=AOaemvI5nrW3qh_UqsqQuWX3Ugo9C7v8Fg%3A1635804721073&ei=MWaAYdHnA66c5OUPyNuxgA8&oq=livro+mais+&gs_lcp=Cgtwcm9kdWN0cy1jYxABGAAyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgQIIxAnOgsIABCABBCxAxCDAToECAAQA0oECEEYAFDB2ARY2-QEYPX-BGgAcAB4AIABkQGIAbsKkgEEMC4xMZgBAKABAcABAQ&sclient=products-cc" target="_blank">Compre aqui</a></p>
-            <br>
-            <br>
-            <iframe src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYourPoetryPoint&width&layout=standard&action=like&show_faces=true&share=true&height=80" scrolling="no" frameborder="0" style="border:none; width: 450px; height:80px;" allowTransparency="true" ></iframe>
-          </div>
+  <div id="mais-esperto">
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="card-group">
+          <img src="image/livros/livro_mais_esperto.jpg" class="card-img-top" id="influencer-photo" alt="mais-esperto">
         </div>
       </div>
-    </div>
-
-    <div id="casais-inteligentes">
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="card-group">
-            <img src="image/livros/livro_casais_inteligentes.jpg" class="card-img-top" id="influencer-photo" alt="casais-inteligentes">
-          </div>
-        </div>
-        <div class="col-sm-6">
-          <div class="card-body">
-            <h5 class="card-title">Casais inteligentes enriquecem juntos</h5>
-            <p class="card-text">Com mais de 1 milhão de livros vendidos, este best-seller inspirou o filme Até que a sorte nos separe e transformou a vida de inúmeras pessoas. Agora vai ensinar você a administrar o dinheiro para dar uma incrementada no seu relacionamento.
-
-              Uma das maiores causas de brigas entre os casais são as dificuldades financeiras. Se falta dinheiro para pagar as contas, a culpa recai sobre o parceiro esbanjador, que não quer nem saber se tem saldo no banco na hora de fazer uma compra. Se sobra dinheiro no fim do mês, em vez de comemorar, o casal pode se desentender sobre como investir ou gastar aquela quantia.
-              
-              De acordo com o consultor Gustavo Cerbasi, a raiz do problema está na falta de conversa sobre dinheiro. Em geral, só se fala sobre o assunto quando a bomba já estourou. E por não discutir a questão a dois, a maioria acaba deixando de fazer um orçamento realista, de guardar dinheiro para atingir suas metas e de se planejar para manter um bom padrão de vida no futuro.
-              
-              Com sugestões válidas para qualquer fase do relacionamento, desde o namoro até as bodas de ouro, Casais inteligentes enriquecem juntos aponta diferentes estratégias para formar uma parceria inteligente na administração das finanças da família. Ele traz também testes que avaliam a capacidade do casal de construir riqueza.</p> 
-            <p><a href="https://www.google.com/search?q=livro+casais+inteligentes+enriquecem+juntos&source=lmns&tbm=shop&bih=657&biw=1366&hl=pt-BR&sa=X&ved=2ahUKEwimldSDmfjzAhUfMLkGHYUmDTIQ_AUoAXoECAEQAQ" target="_blank">Compre aqui</a></p>
-            <br>
-            <br>
-            <iframe src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYourPoetryPoint&width&layout=standard&action=like&show_faces=true&share=true&height=80" scrolling="no" frameborder="0" style="border:none; width: 450px; height:80px;" allowTransparency="true"></iframe>
-          </div>
+      <div class="col-sm-6">
+        <div class="card-body">
+          <h5 class="card-title">Mais esperto que o diabo</h5>
+          <p class="card-text">Escrito em 1938, após uma das maiores crises econômicas, e precedendo a Segunda Guerra
+            Mundial, este livro não somente é uma fonte de inspiração e coragem, mas deve ser considerado um manual para
+            todas aquelas pessoas que desejam ser mais espertas que seus medos, problemas e limitações, pois, como o
+            próprio Hill fala - em toda adversidade existe uma semente de benefício equivalente. Dessa forma, se você
+            deseja ter mais força, coragem e fé em si mesmo, para vencer todas as adversidades que surgirem em seu
+            caminho, este livro será um presente daquele que você deve amar sempre e muito - você mesmo. Quando amamos a
+            nós mesmos e vivemos em paz e harmonia com nossa própria consciência, aí sim encontramos aquele que nos deu
+            o presente da Vida. Sabendo mais sobre o Diabo e suas armadilhas mentais, acabamos nos aproximando mais de
+            Deus.</p>
+          <p><a
+              href="https://www.google.com/search?q=livro+mais+esperto+que+o+diabo&sa=X&biw=1366&bih=657&tbm=shop&sxsrf=AOaemvI5nrW3qh_UqsqQuWX3Ugo9C7v8Fg%3A1635804721073&ei=MWaAYdHnA66c5OUPyNuxgA8&oq=livro+mais+&gs_lcp=Cgtwcm9kdWN0cy1jYxABGAAyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgQIIxAnOgsIABCABBCxAxCDAToECAAQA0oECEEYAFDB2ARY2-QEYPX-BGgAcAB4AIABkQGIAbsKkgEEMC4xMZgBAKABAcABAQ&sclient=products-cc"
+              target="_blank">Compre aqui</a></p>
+          <br>
+          <br>
+          <iframe
+            src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYourPoetryPoint&width&layout=standard&action=like&show_faces=true&share=true&height=80"
+            scrolling="no" frameborder="0" style="border:none; width: 450px; height:80px;"
+            allowTransparency="true"></iframe>
         </div>
       </div>
     </div>
-    <!-- Formulário para fazer comentários-->
-    <form>
-      <label for="exampleFormControlInput1">Deixe seu comentário:</label>
-      <div class="form-group">
-        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Insira seu nome">
-      </div>
-      <div class="form-group">
-        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Insira seu comentário"></textarea>
-      </div>
-    </form>
+  </div>
 
-    <!-- rodapé -->
-    <footer>
-      <p class="copyright"> &copy; Copyright 2021	</p>
-    </footer>
-    
-    <!-- JavaScript -->
-    <script type="text/javascript" src="script.js"></script>
-    
-    <!-- Bootstrap -->
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-W8fXfP3gkOKtndU4JGtKDvXbO53Wy8SZCQHczT5FMiiqmQfUpWbYdTil/SxwZgAN" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js" integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/" crossorigin="anonymous"></script>
-  </body>
+  <div id="casais-inteligentes">
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="card-group">
+          <img src="image/livros/livro_casais_inteligentes.jpg" class="card-img-top" id="influencer-photo"
+            alt="casais-inteligentes">
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="card-body">
+          <h5 class="card-title">Casais inteligentes enriquecem juntos</h5>
+          <p class="card-text">Com mais de 1 milhão de livros vendidos, este best-seller inspirou o filme Até que a
+            sorte nos separe e transformou a vida de inúmeras pessoas. Agora vai ensinar você a administrar o dinheiro
+            para dar uma incrementada no seu relacionamento.
+
+            Uma das maiores causas de brigas entre os casais são as dificuldades financeiras. Se falta dinheiro para
+            pagar as contas, a culpa recai sobre o parceiro esbanjador, que não quer nem saber se tem saldo no banco na
+            hora de fazer uma compra. Se sobra dinheiro no fim do mês, em vez de comemorar, o casal pode se desentender
+            sobre como investir ou gastar aquela quantia.
+
+            De acordo com o consultor Gustavo Cerbasi, a raiz do problema está na falta de conversa sobre dinheiro. Em
+            geral, só se fala sobre o assunto quando a bomba já estourou. E por não discutir a questão a dois, a maioria
+            acaba deixando de fazer um orçamento realista, de guardar dinheiro para atingir suas metas e de se planejar
+            para manter um bom padrão de vida no futuro.
+
+            Com sugestões válidas para qualquer fase do relacionamento, desde o namoro até as bodas de ouro, Casais
+            inteligentes enriquecem juntos aponta diferentes estratégias para formar uma parceria inteligente na
+            administração das finanças da família. Ele traz também testes que avaliam a capacidade do casal de construir
+            riqueza.</p>
+          <p><a
+              href="https://www.google.com/search?q=livro+casais+inteligentes+enriquecem+juntos&source=lmns&tbm=shop&bih=657&biw=1366&hl=pt-BR&sa=X&ved=2ahUKEwimldSDmfjzAhUfMLkGHYUmDTIQ_AUoAXoECAEQAQ"
+              target="_blank">Compre aqui</a></p>
+          <br>
+          <br>
+          <iframe
+            src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FYourPoetryPoint&width&layout=standard&action=like&show_faces=true&share=true&height=80"
+            scrolling="no" frameborder="0" style="border:none; width: 450px; height:80px;"
+            allowTransparency="true"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Formulário para fazer comentários-->
+  <form>
+    <label for="exampleFormControlInput1">Deixe seu comentário:</label>
+    <div class="form-group">
+      <input type="text" class="form-control" id="formName" placeholder="Insira seu nome">
+    </div>
+    <div class="form-group">
+      <textarea class="form-control" id="formComent" rows="3" placeholder="Insira seu comentário"></textarea>
+    </div>
+    <!-- Adiciona Button de publicar comentário -->
+    <button type="button" onclick="publicaComentario()" class="btn btn-primary"> Publicar </button>
+  </form>
+
+  <!-- rodapé -->
+  <footer>
+    <p class="copyright"> &copy; Copyright 2021 </p>
+  </footer>
+
+  <!-- JavaScript -->
+  <script type="text/javascript" src="script.js"></script>
+
+  <!-- Bootstrap -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"
+    integrity="sha384-W8fXfP3gkOKtndU4JGtKDvXbO53Wy8SZCQHczT5FMiiqmQfUpWbYdTil/SxwZgAN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js"
+    integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/"
+    crossorigin="anonymous"></script>
+</body>
+
 </html>

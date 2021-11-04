@@ -12,6 +12,8 @@
     <title>Influencers</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <!-- importa lógica para salvar comentários no LocalStorage com JSON -->
+    <script src="comentario.js"></script>
   </head>
   <body>
     <!-- Menu navbar -->
@@ -131,7 +133,7 @@
       </div>
     </div>
 
-    <div id="thiago-nigro">
+    <div id="thiago-nigro", class="influencer">
       <div class="row">
         <div class="col-sm-4">
           <div class="card-group">
@@ -177,7 +179,7 @@
       </div>
     </div>
 
-    <div id="mirna-borges">
+    <div id="mirna-borges", class="influencer">
       <div class="row">
         <div class="col-sm-4">
           <div class="card-group">
@@ -496,11 +498,13 @@
     <form>
       <label for="exampleFormControlInput1">Deixe seu comentário:</label>
       <div class="form-group">
-        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Insira seu nome">
+        <input type="text" class="form-control" id="formName" placeholder="Insira seu nome">
       </div>
       <div class="form-group">
-        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Insira seu comentário"></textarea>
+        <textarea class="form-control" id="formComent" rows="3" placeholder="Insira seu comentário"></textarea>
       </div>
+      <!-- Adiciona Button de publicar comentário -->
+      <button type="button" onclick="publicaComentario()" class="btn btn-primary"> Publicar </button>
     </form>
 
     <!-- rodapé -->
