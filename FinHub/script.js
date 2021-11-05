@@ -30,3 +30,18 @@ function leiaMais(){
     }
    }
    
+   function leiaMais3(){
+    var pontos=document.getElementById("pontos3");
+    var maisTexto=document.getElementById("mais3");
+    var btnLeiaMais=document.getElementById("btnLeiaMais3");
+
+    if(pontos.style.display === "none"){
+        pontos.style.display="inline";
+        maisTexto.style.display="none";
+        btnLeiaMais.innerHTML="LeiaMais";
+    }else{
+        pontos.style.display="none";
+        maisTexto.style.display="inline";
+        btnLeiaMais.innerHTML="Leia Menos";
+    }
+   }
