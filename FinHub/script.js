@@ -45,3 +45,4 @@ function leiaMais(){
         btnLeiaMais.innerHTML="Leia Menos";
     }
    }
+   
