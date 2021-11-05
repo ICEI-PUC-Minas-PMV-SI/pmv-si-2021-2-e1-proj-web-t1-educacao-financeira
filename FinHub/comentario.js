@@ -6,7 +6,7 @@ function publicaComentario() {
 
     if (dados == null) {
         localStorage.setItem("dadosComent", "[]");
-        dados = [];
+        dados = [];  //cria o array
     } 
     var auxRegistro = {
         nome: formName.value,
