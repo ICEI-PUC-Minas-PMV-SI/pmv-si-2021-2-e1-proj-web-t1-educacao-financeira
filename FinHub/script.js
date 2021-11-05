@@ -29,7 +29,7 @@ function leiaMais(){
         btnLeiaMais.innerHTML="Leia Menos";
     }
    }
-   
+
    function leiaMais3(){
     var pontos=document.getElementById("pontos3");
     var maisTexto=document.getElementById("mais3");
