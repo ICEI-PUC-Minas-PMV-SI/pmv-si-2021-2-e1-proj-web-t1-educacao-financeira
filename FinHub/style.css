@@ -104,3 +104,10 @@ form {
   margin-top: 5%;
 
 }
+
+#cotacao {
+  background-color:#F1F5F9;
+}
+#head_table{
+  font-weight: bold;
+}
