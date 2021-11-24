@@ -35,30 +35,17 @@ Procedimentos:
 Resultados esperados:  
 Resultados obtidos:  
 
-CT-008 O sistema deve permitir, a partir do registro de comentários, o usuário interagir com outros usuários da plataforma.  
+CT-008 O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças.  
 Procedimentos:  
 Resultados esperados:  
 Resultados obtidos:  
 
-CT-009 O software dever permitir o administrador organizar os conteúdos de finanças de acordo com o índice de popularidade, interesse e avaliação.  
+CT-009 O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira.  
 Procedimentos:  
 Resultados esperados:  
 Resultados obtidos:  
 
-CT-010 O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças.  
-Procedimentos:  
-Resultados esperados:  
-Resultados obtidos:  
 
-CT-011 O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira.  
-Procedimentos:  
-Resultados esperados:  
-Resultados obtidos:  
-
-CT-012 O usuário deve ser capaz de pesquisar os cursos de educação financeira a partir da palavra-chave desejada.  
-Procedimentos:  
-Resultados esperados:  
-Resultados obtidos:  
 
 # Plano de Testes de Software
 
