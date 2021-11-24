@@ -39,9 +39,9 @@ CT-008 O sistema deve listar os principais App´s utilizados para a obtenção d
 Procedimentos:  
 - Clicar em  “Material de Apoio” na barra de navegação superior.
 - A partir de “Material de Apoio” será exibido um menu suspenso, onde deverá clicar em “Aplicativos”
-Resultados esperados:
+Resultados esperados:  
 - Ao clicar em “Material de Apoio” -> ”Aplicativos” o usuário será redirecionado para página de aplicativos(../apps.html);
-- A página de aplicativos deve conter indicações de aplicativos relacionados a finanças.
+- A página de aplicativos deve conter indicações de aplicativos relacionados a finanças.  
 Resultados obtidos:
 - Ao clicar em “Material de Apoio” -> “Aplicativos” ocorreu o redirecionamento para a página de Aplicativos.
 - A página de aplicativos lista em cards alguns aplicativos relacionados à educação financeira.
