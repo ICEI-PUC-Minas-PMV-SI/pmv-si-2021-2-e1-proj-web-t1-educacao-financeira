@@ -37,15 +37,15 @@ Resultados obtidos:
 
 CT-008 O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças.  
 Procedimentos:  
-Clicar em  “Material de Apoio” na barra de navegação superior.
-A partir de “Material de Apoio” será exibido um menu suspenso, onde deverá clicar em “Aplicativos”
+- Clicar em  “Material de Apoio” na barra de navegação superior.
+- A partir de “Material de Apoio” será exibido um menu suspenso, onde deverá clicar em “Aplicativos”
 Resultados esperados:
-Ao clicar em “Material de Apoio” -> ”Aplicativos” o usuário será redirecionado para página de aplicativos(../apps.html);
-A página de aplicativos deve conter indicações de aplicativos relacionados a finanças.
+- Ao clicar em “Material de Apoio” -> ”Aplicativos” o usuário será redirecionado para página de aplicativos(../apps.html);
+- A página de aplicativos deve conter indicações de aplicativos relacionados a finanças.
 Resultados obtidos:
-Ao clicar em “Material de Apoio” -> “Aplicativos” ocorreu o redirecionamento para a página de Aplicativos.
-A página de aplicativos lista em cards alguns aplicativos relacionados à educação financeira.
-Cada card contém o ícone do aplicativo, nome e botões que encaminham para loja da Apple e do Google.
+- Ao clicar em “Material de Apoio” -> “Aplicativos” ocorreu o redirecionamento para a página de Aplicativos.
+- A página de aplicativos lista em cards alguns aplicativos relacionados à educação financeira.
+- Cada card contém o ícone do aplicativo, nome e botões que encaminham para loja da Apple e do Google.
  
 
 CT-009 O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira.  
