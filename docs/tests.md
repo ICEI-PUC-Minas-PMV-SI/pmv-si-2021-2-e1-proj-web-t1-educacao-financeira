@@ -6,6 +6,11 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 
 
 
+
+
+
+
+
 CT-001 O sistema deve listar Cursos tangentes à educação financeira.
 Procedimentos:
 Resultados esperados:
