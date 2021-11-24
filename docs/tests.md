@@ -1,9 +1,9 @@
 # Plano de Testes de Software
 
-CT-001 O sistema deve listar Cursos tangentes à educação financeira.
-Procedimentos:
-Resultados esperados:
-Resultados obtidos:
+CT-001 O sistema deve listar Cursos tangentes à educação financeira.  
+Procedimentos:  
+Resultados esperados:  
+Resultados obtidos:  
 
 CT-002 O sistema deve listar Podcasts com conteúdo relacionado à educação financeira.
 Procedimentos:
