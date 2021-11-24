@@ -4,62 +4,50 @@ CT-001 O sistema deve listar Cursos tangentes à educação financeira.
 Procedimentos:  
 Resultados esperados:  
 Resultados obtidos:  
-
-CT-002 O sistema deve listar Podcasts com conteúdo relacionado à educação financeira.
-Procedimentos:
-Resultados esperados:
-Resultados obtidos:
-
-CT-003 O sistema deve listar acervo com indicações de livros relacionados à educação financeira.
-Procedimentos:
-Resultados esperados:
-Resultados obtidos:
-
-CT-004 O sistema deve disponibilizar indicações de vídeos acerca do conteúdo de finanças.
-Procedimentos:
-Resultados esperados:
-Resultados obtidos:
-
-CT-005 O sistema deve disponibilizar um campo para o usuário registrar comentários sobre os conteúdos da plataforma.
-Procedimentos:
-Resultados esperados:
-Resultados obtidos:
-
-CT-006 O sistema deve listar os principais influenciadores digitais que ministram conteúdo de educação financeira.
-Procedimentos:
-Resultados esperados:
-Resultados obtidos:
-
-CT-007 O sistema deve oferecer a ferramenta “like” para o usuário fazer avaliação dos conteúdos disponibilizados na plataforma.
-Procedimentos:
-Resultados esperados:
-Resultados obtidos:
-
-CT-008 O sistema deve permitir, a partir do registro de comentários, o usuário interagir com outros usuários da plataforma.
-Procedimentos:
-Resultados esperados:
-Resultados obtidos:
-
-CT-009 O software dever permitir o administrador organizar os conteúdos de finanças de acordo com o índice de popularidade, interesse e avaliação.
-Procedimentos:
-Resultados esperados:
-Resultados obtidos:
-
-CT-010 O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças.
-Procedimentos:
-Resultados esperados:
-Resultados obtidos:
-
-CT-011 O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira.
-Procedimentos:
-Resultados esperados:
-Resultados obtidos:
-
-CT-012 O usuário deve ser capaz de pesquisar os cursos de educação financeira a partir da palavra-chave desejada.
-Procedimentos:
-Resultados esperados:
-Resultados obtidos:
-
+CT-002 O sistema deve listar Podcasts com conteúdo relacionado à educação financeira.  
+Procedimentos:  
+Resultados esperados:  
+Resultados obtidos:  
+CT-003 O sistema deve listar acervo com indicações de livros relacionados à educação financeira.  
+Procedimentos:  
+Resultados esperados:  
+Resultados obtidos:  
+CT-004 O sistema deve disponibilizar indicações de vídeos acerca do conteúdo de finanças.  
+Procedimentos:  
+Resultados esperados:  
+Resultados obtidos:  
+CT-005 O sistema deve disponibilizar um campo para o usuário registrar comentários sobre os conteúdos da plataforma.  
+Procedimentos:  
+Resultados esperados:  
+Resultados obtidos:  
+CT-006 O sistema deve listar os principais influenciadores digitais que ministram conteúdo de educação financeira.  
+Procedimentos:  
+Resultados esperados:  
+Resultados obtidos:  
+CT-007 O sistema deve oferecer a ferramenta “like” para o usuário fazer avaliação dos conteúdos disponibilizados na plataforma.  
+Procedimentos:  
+Resultados esperados:  
+Resultados obtidos:  
+CT-008 O sistema deve permitir, a partir do registro de comentários, o usuário interagir com outros usuários da plataforma.  
+Procedimentos:  
+Resultados esperados:  
+Resultados obtidos:  
+CT-009 O software dever permitir o administrador organizar os conteúdos de finanças de acordo com o índice de popularidade, interesse e avaliação.  
+Procedimentos:  
+Resultados esperados:  
+Resultados obtidos:  
+CT-010 O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças.  
+Procedimentos:  
+Resultados esperados:  
+Resultados obtidos:  
+CT-011 O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira.  
+Procedimentos:  
+Resultados esperados:  
+Resultados obtidos:  
+CT-012 O usuário deve ser capaz de pesquisar os cursos de educação financeira a partir da palavra-chave desejada.  
+Procedimentos:  
+Resultados esperados:  
+Resultados obtidos:  
 # Plano de Testes de Software
 
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
