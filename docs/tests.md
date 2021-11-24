@@ -44,7 +44,7 @@ Procedimentos:
 Resultados esperados:  
 - Ao clicar em “Material de Apoio” -> ”Aplicativos” o usuário será redirecionado para página de aplicativos(../apps.html);
 - A página de aplicativos deve conter indicações de aplicativos relacionados a finanças.  
-- 
+
 Resultados obtidos:
 - Ao clicar em “Material de Apoio” -> “Aplicativos” ocorreu o redirecionamento para a página de Aplicativos.
 - A página de aplicativos lista em cards alguns aplicativos relacionados à educação financeira.
