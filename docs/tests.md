@@ -48,13 +48,32 @@ Resultados esperados:
 Resultados obtidos:
 - Ao clicar em “Material de Apoio” -> “Aplicativos” ocorreu o redirecionamento para a página de Aplicativos.
 - A página de aplicativos lista em cards alguns aplicativos relacionados à educação financeira.
-- Cada card contém o ícone do aplicativo, nome e botões que encaminham para loja da Apple e do Google.
+- Cada card contém o ícone do aplicativo, nome, uma breve descrição e botões que encaminham para loja da Apple e do Google.
  
 
-CT-009 O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira.  
-Procedimentos:  
-Resultados esperados:  
-Resultados obtidos:  
+CT-009 O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira.
+
+Procedimentos:
+
+-   Clicar em “Material de Apoio” na barra de navegação superior.
+    
+-   A partir de “Material de Apoio” será exibido um menu suspenso, onde deverá clicar em “Planilhas”
+    
+
+Resultados esperados:
+
+-   Ao clicar em “Material de Apoio” -> ”Planilhas” o usuário será redirecionado para página de aplicativos(../spreadsheets.html);
+    
+-   A página de planilhas deve exibir sugestões e link para acesso/download de planilhas de gestão financeira.
+    
+
+Resultados obtidos:
+
+-   Ao clicar em “Material de Apoio” -> “Planilhas” ocorreu o redirecionamento para a página de Planilhas.
+    
+-   A página de planilhas lista em cards algumas planilhas relacionadas à gestão financeira.
+    
+-   Cada card contém o nome da planilha, uma breve descrição sobre ela e um botão para download.
 
 
 
