@@ -21,7 +21,7 @@ function retornaDadoHTLM(dados){
     let cotacao = document.getElementById("cotacao");
 
     for(i=0; i<array.length; i++){
-        let node = document.createElement("p");
+        let node = document.createElement("li");
 
         let name = document.createTextNode(array[i].name);
         node.appendChild(name);
@@ -34,8 +34,6 @@ function retornaDadoHTLM(dados){
         document.getElementById("cotacao").appendChild(node);    
         
     }
-
-
 }
 main()
 // api 

@@ -106,8 +106,15 @@ form {
 }
 
 #cotacao {
-  background-color:#F1F5F9;
+  /* background-color:#F1F5F9; */
+  text-align: center;
+  margin: 20px;
 }
-#head_table{
-  font-weight: bold;
+
+li{  
+  display: inline-block;
+  margin-right: 5%;
+  font-family: Helvetica;
+  font-weight: 300;
+  color: rgba(18, 32, 47, 0.6);
 }
