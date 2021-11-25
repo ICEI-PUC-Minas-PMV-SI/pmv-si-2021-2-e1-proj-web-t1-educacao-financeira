@@ -1,41 +1,41 @@
 # Plano de Testes de Software
 
-CT-001 O sistema deve listar Cursos tangentes à educação financeira.  
+**CT-001** O sistema deve listar Cursos tangentes à educação financeira.  
 Procedimentos:  
 Resultados esperados:  
 Resultados obtidos:  
 
-CT-002 O sistema deve listar Podcasts com conteúdo relacionado à educação financeira.  
+**CT-002** O sistema deve listar Podcasts com conteúdo relacionado à educação financeira.  
 Procedimentos:  
 Resultados esperados:  
 Resultados obtidos:  
 
-CT-003 O sistema deve listar acervo com indicações de livros relacionados à educação financeira.  
+**CT-003** O sistema deve listar acervo com indicações de livros relacionados à educação financeira.  
 Procedimentos:  
 Resultados esperados:  
 Resultados obtidos:  
 
-CT-004 O sistema deve disponibilizar indicações de vídeos acerca do conteúdo de finanças.  
+**CT-004** O sistema deve disponibilizar indicações de vídeos acerca do conteúdo de finanças.  
 Procedimentos:  
 Resultados esperados:  
 Resultados obtidos:  
 
-CT-005 O sistema deve disponibilizar um campo para o usuário registrar comentários sobre os conteúdos da plataforma.  
+**CT-005** O sistema deve disponibilizar um campo para o usuário registrar comentários sobre os conteúdos da plataforma.  
 Procedimentos:  
 Resultados esperados:  
 Resultados obtidos:  
 
-CT-006 O sistema deve listar os principais influenciadores digitais que ministram conteúdo de educação financeira.  
+**CT-006** O sistema deve listar os principais influenciadores digitais que ministram conteúdo de educação financeira.  
 Procedimentos:  
 Resultados esperados:  
 Resultados obtidos:  
 
-CT-007 O sistema deve oferecer a ferramenta “like” para o usuário fazer avaliação dos conteúdos disponibilizados na plataforma.  
+**CT-007** O sistema deve oferecer a ferramenta “like” para o usuário fazer avaliação dos conteúdos disponibilizados na plataforma.  
 Procedimentos:  
 Resultados esperados:  
 Resultados obtidos:  
 
-CT-008 O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças.  
+**CT-008** O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças.  
 
 Procedimentos:  
 - Clicar em  “Material de Apoio” na barra de navegação superior.
@@ -51,7 +51,7 @@ Resultados obtidos:
 - Cada card contém o ícone do aplicativo, nome, uma breve descrição e botões que encaminham para loja da Apple e do Google.
  
 
-CT-009 O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira.
+**CT-009** O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira.
 
 Procedimentos:
 
