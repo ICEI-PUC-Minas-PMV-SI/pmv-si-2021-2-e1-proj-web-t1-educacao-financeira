@@ -48,7 +48,11 @@ Resultados esperados:
 Resultados obtidos:
 - Ao clicar em “Material de Apoio” -> “Aplicativos” ocorreu o redirecionamento para a página de Aplicativos.
 - A página de aplicativos lista em cards alguns aplicativos relacionados à educação financeira.
-- Cada card contém o ícone do aplicativo, nome, uma breve descrição e botões que encaminham para loja da Apple e do Google.
+- Cada card contém o ícone do aplicativo, nome, uma breve descrição e botões que encaminham para loja da Apple e do Google.  
+
+![app_1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/app1.jpg)  
+![app_2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/app2.jpg)
+![app_3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/app3.jpg)
  
 
 **CT-009** O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira.
@@ -75,7 +79,7 @@ Resultados obtidos:
     
 -   Cada card contém o nome da planilha, uma breve descrição sobre ela e um botão para download.  
 ![planilha_1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/planilha1.jpg)  
-!(docs\image_test\planilha2.jpg)
+![planilha_2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/planilha2.jpg)
 
 
 
