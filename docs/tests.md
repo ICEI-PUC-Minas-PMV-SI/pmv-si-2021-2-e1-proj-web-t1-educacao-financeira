@@ -73,7 +73,9 @@ Resultados obtidos:
     
 -   A página de planilhas lista em cards algumas planilhas relacionadas à gestão financeira.
     
--   Cada card contém o nome da planilha, uma breve descrição sobre ela e um botão para download.
+-   Cada card contém o nome da planilha, uma breve descrição sobre ela e um botão para download.  
+!(docs\image_test\planilha1.jpg)  
+!(docs\image_test\planilha2.jpg)
 
 
 
