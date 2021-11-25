@@ -74,7 +74,7 @@ Resultados obtidos:
 -   A página de planilhas lista em cards algumas planilhas relacionadas à gestão financeira.
     
 -   Cada card contém o nome da planilha, uma breve descrição sobre ela e um botão para download.  
-!(docs\image_test\planilha1.jpg)  
+!(https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/planilha1.jpg)  
 !(docs\image_test\planilha2.jpg)
 
 
