@@ -46,6 +46,11 @@ Resultados obtidos:
 
 **CT-006** O sistema deve listar os principais influenciadores digitais que ministram conteúdo de educação financeira.  
 Procedimentos:  
+1. Clicar em “Influencers” na barra de navegação superior.
+2. A partir da página "Influencers” serão exibidos cards com sugestões de influenciadores e respectiva apresentação.
+3. Clicar nos botões de redes sociais do influenciador escolhido.
+4. Clicar no botão "Curtir"/"Compartilhar".
+
 Resultados esperados:  
 Resultados obtidos:  
 
