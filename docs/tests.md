@@ -16,7 +16,7 @@ Resultados esperados:
 1. Ao clicar em “Podcast” o usuário será redirecionado para página de podcasts (../podcast.html);
 2. A página deve conter indicações de podcasts relacionados a finanças.
 3. Ao clicar no botão "play", o podcast escolhido começará a ser reproduzido.
-4. Ao cicar no botão "seguir" do podcast escolhido, o usuário será direcionado para a página do podcast no serviço de streaming.
+4. Ao clicar no botão "seguir" do podcast escolhido, o usuário será direcionado para a página do podcast no serviço de streaming.
 
 Resultados obtidos:  
 1. Ao clicar em “Podcast” ocorreu o redirecionamento para a página de podcasts.
