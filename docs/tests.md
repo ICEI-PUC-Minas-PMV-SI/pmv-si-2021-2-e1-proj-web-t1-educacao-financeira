@@ -7,8 +7,27 @@ Resultados obtidos:
 
 **CT-002** O sistema deve listar Podcasts com conteúdo relacionado à educação financeira.  
 Procedimentos:  
+1. Clicar em “Podcast” na barra de navegação superior.
+2. A partir da página "Podcast” serão exibidos cards com sugestões de podcasts.
+3. Clicar no botão "play" do podcast escolhido.
+4. Clicar no botão "seguir" do podcast escolhido.
+
 Resultados esperados:  
+1. Ao clicar em “Podcast” o usuário será redirecionado para página de podcasts (../podcast.html);
+2. A página deve conter indicações de podcasts relacionados a finanças.
+3. Ao clicar no botão "play", o podcast escolhido começará a ser reproduzido.
+4. Ao clicar no botão "seguir" do podcast escolhido, o usuário será direcionado para a página do podcast no serviço de streaming.
+
 Resultados obtidos:  
+1. Ao clicar em “Podcast” ocorreu o redirecionamento para a página de podcasts.
+2. A página de podcasts lista em cards alguns aplicativos relacionados à educação financeira.
+3. Ao clicar em "play", o podcast começou a ser reproduzido.
+4. Ao clicar no botão "seguir" houve o redirecionamendo para a página do serviço de streaming.
+
+![app_1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/podcast1.jpg)  
+![app_2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/podcast2.jpg)
+![app_3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/podcast3.jpg)
+
 
 **CT-003** O sistema deve listar acervo com indicações de livros relacionados à educação financeira.  
 Procedimentos:  
@@ -27,6 +46,11 @@ Resultados obtidos:
 
 **CT-006** O sistema deve listar os principais influenciadores digitais que ministram conteúdo de educação financeira.  
 Procedimentos:  
+1. Clicar em “Influencers” na barra de navegação superior.
+2. A partir da página "Influencers” serão exibidos cards com sugestões de influenciadores e respectiva apresentação.
+3. Clicar nos botões de redes sociais do influenciador escolhido.
+4. Clicar no botão "Curtir"/"Compartilhar".
+
 Resultados esperados:  
 Resultados obtidos:  
 
