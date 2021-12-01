@@ -2,10 +2,10 @@ function publicaComentario() {
     var formName = document.getElementById("formName");
     var formComent = document.getElementById("formComent");
 
-    var dados = JSON.parse(localStorage.getItem("dadosComent"));
+    var dados = JSON.parse(localStorage.getItem("dadosComent_curso"));
 
     if (dados == null) {
-        localStorage.setItem("dadosComent", "[]");
+        localStorage.setItem("dadosComent_curso", "[]");
         dados = [];  //cria o array
     } 
     var auxRegistro = {
@@ -14,7 +14,7 @@ function publicaComentario() {
     }
     dados.push(auxRegistro);
 
-    localStorage.setItem("dadosComent", JSON.stringify(dados));
+    localStorage.setItem("dadosComent_curso", JSON.stringify(dados));
 
     alert("Comentário publicado")
 
@@ -23,7 +23,7 @@ function publicaComentario() {
 
 }
 function main() {
-    var dados = JSON.parse(localStorage.getItem("dadosComent"));
+    var dados = JSON.parse(localStorage.getItem("dadosComent_curso"));
     // console.log(dados)
     let a = retornaDadoHTLM(dados);
 }
