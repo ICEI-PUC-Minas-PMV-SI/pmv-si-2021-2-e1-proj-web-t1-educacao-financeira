@@ -16,7 +16,7 @@ function publicaComentario() {
 
     localStorage.setItem("dadosComent_planilha", JSON.stringify(dados));
 
-    alert("Comentário publicado")
+    alert("Comentário publicado") ? "" : location.reload()
 
     formName.value = "";
     formComent.value = "";
