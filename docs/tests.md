@@ -17,9 +17,9 @@ Resultados obtidos:
 3. Cada card contém o nome do curso e uma descrição sobre o curso.
 4. Ao clicar na imagem do curso, o usuário é redirecionado para o site do curso.
 
-![course_1]
-![course_2]
-![course_3]
+![course_1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/course1.jpg)
+![course_2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/course2.jpg)
+![course_3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/course3.jpg)
 
 **CT-002** O sistema deve listar Podcasts com conteúdo relacionado à educação financeira.  
 Procedimentos:  
@@ -65,9 +65,9 @@ Resultados obtidos:
 4. Ao clicar no link disponilizado, o usuário foi direcionado para um site onde pôde realizar a compra do livro. 
 5. Ao clicar nos botões de like e compartilhar, o usuário pôde curtir e compartilhar o contéudo.
 
-![book_1]
-![book_2]
-![book_3]
+![book_1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/book1.jpg)
+![book_2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/book2.jpg)
+![book_3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/book3.jpg)
 
 **CT-004** O sistema deve disponibilizar indicações de vídeos acerca do conteúdo de finanças.  
 Procedimentos:
