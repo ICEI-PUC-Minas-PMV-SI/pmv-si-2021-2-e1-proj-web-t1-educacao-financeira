@@ -2,8 +2,24 @@
 
 **CT-001** O sistema deve listar Cursos tangentes à educação financeira.  
 Procedimentos:  
+1. Clicar em “Cursos” na barra de navegação superior.
+2. A partir da página "Cursos” serão exibidos cards com sugestões de cursos relacionados a finanças.
+3. Clicar na imagem do curso escolhido.
+
 Resultados esperados:  
+1. Ao clicar em “Cursos” o usuário será redirecionado para página de cursos (../courses.html);
+2. A página deve conter indicações de cursos relacionados a finanças.
+3. Ao clicar na imagem do curso escolhido, será aberto uma nova guia no navegador que irá direcionar o usuário para o site do curso escolhido.
+
 Resultados obtidos:  
+1. Ao clicar em "Cursos" ocorreu o redirecionamento para a página de cursos.
+2. A página de cursos lista em cards alguns cursos relacionados à educação financeira.
+3. Cada card contém o nome do curso e uma descrição sobre o curso.
+4. Ao clicar na imagem do curso, o usuário é redirecionado para o site do curso.
+
+![course_1]
+![course_2]
+![course_3]
 
 **CT-002** O sistema deve listar Podcasts com conteúdo relacionado à educação financeira.  
 Procedimentos:  
@@ -31,8 +47,27 @@ Resultados obtidos:
 
 **CT-003** O sistema deve listar acervo com indicações de livros relacionados à educação financeira.  
 Procedimentos:  
+1. Clicar em “Livros” na barra de navegação superior.
+2. A partir da página "Livros” serão exibidos cards com sugestões de livros relacionados a finanças.
+3. Clicar no link disponibilizado e o usuário será redicionado para um site onde poderá fazer a compra do livro.
+4. Clicar no botão de "Like e compartilhar".
+
 Resultados esperados:  
+1. Ao clicar em “Livros” o usuário será redirecionado para página de cursos (../livros.html);
+2. A página deve conter indicações de livros relacionados a finanças.
+3. Ao clicar no link referente ao livro escolhido, o usuário será redicionado para o site onde poderá comprar o livro que deseja.
+4. Ao clicar em curtir ou compartilhar, o usuário poderá fazer login com o Facebook e poderá curtir e compartilhar o conteúdo que desejar.
+
 Resultados obtidos:  
+1. Ao clicar em "Livros" ocorreu o redirecionamento para a página de livros.
+2. A página de livros lista em cards alguns livros relacionados à educação financeira.
+3. Cada card contém o nome do livro, uma descrição sobre o livro, um link para a compra do livro e os botões de curtir e de compartilhar.
+4. Ao clicar no link disponilizado, o usuário foi direcionado para um site onde pôde realizar a compra do livro. 
+5. Ao clicar nos botões de like e compartilhar, o usuário pôde curtir e compartilhar o contéudo.
+
+![book_1]
+![book_2]
+![book_3]
 
 **CT-004** O sistema deve disponibilizar indicações de vídeos acerca do conteúdo de finanças.  
 Procedimentos:
@@ -43,6 +78,7 @@ Resultados esperados:
 
 Resultados obtidos:
 1.  
+
 
 **CT-005** O sistema deve disponibilizar um campo para o usuário registrar comentários sobre os conteúdos da plataforma.  
 Procedimentos:  
@@ -58,6 +94,7 @@ Resultados obtidos:
 ![coment_1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/coment1.png)
 ![coment_2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/coment2.png)
 
+
 **CT-006** O sistema deve listar os principais influenciadores digitais que ministram conteúdo de educação financeira.  
 Procedimentos:  
 1. Clicar em “Influencers” na barra de navegação superior.
@@ -67,6 +104,7 @@ Procedimentos:
 
 Resultados esperados:  
 Resultados obtidos:  
+
 
 **CT-007** O sistema deve oferecer a ferramenta “like” para o usuário fazer avaliação dos conteúdos disponibilizados na plataforma.  
 Procedimentos:  
@@ -81,6 +119,7 @@ Resultados obtidos:
 1. Ao clicar em "Curtir" presente no conteúdo de "Aplicativos" listados, apareceu um pop-up redirecionando para login no Facebook.
 
 ![like_1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/like1.png)
+
 
 **CT-008** O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças.  
 
