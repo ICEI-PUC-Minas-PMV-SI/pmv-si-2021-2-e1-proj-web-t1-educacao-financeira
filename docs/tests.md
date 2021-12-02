@@ -35,9 +35,14 @@ Resultados esperados:
 Resultados obtidos:  
 
 **CT-004** O sistema deve disponibilizar indicações de vídeos acerca do conteúdo de finanças.  
-Procedimentos:  
-Resultados esperados:  
-Resultados obtidos:  
+Procedimentos:
+1. 
+
+Resultados esperados:
+1. 
+
+Resultados obtidos:
+1.  
 
 **CT-005** O sistema deve disponibilizar um campo para o usuário registrar comentários sobre os conteúdos da plataforma.  
 Procedimentos:  
@@ -56,8 +61,15 @@ Resultados obtidos:
 
 **CT-007** O sistema deve oferecer a ferramenta “like” para o usuário fazer avaliação dos conteúdos disponibilizados na plataforma.  
 Procedimentos:  
-Resultados esperados:  
-Resultados obtidos:  
+1. Clica em "Material de Apoio" na barra de navegação superior, a partir será exibido um menu suspenso, onde deverá clicar em "Aplicativos";
+2. O material da qual o usuário gostar, é possível apoiar o conteúdo;
+3. Clicar nos botões de curtir em azul na parte inferior dos app's listados.
+
+Resultados esperados:
+1. Ao clicar em "Curtir" presente no conteúdo de "Aplicativos" listados, o usuário deve receber um feedback visual do click e apresentar o número de curtidas;
+
+Resultados obtidos:
+1. Ao clicar em "Curtir" presente no conteúdo de "Aplicativos" listados, apareceu um pop-up redirecionando para login no Facebook.
 
 **CT-008** O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças.  
 
