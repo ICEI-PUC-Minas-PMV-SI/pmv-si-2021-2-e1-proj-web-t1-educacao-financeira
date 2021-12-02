@@ -46,8 +46,17 @@ Resultados obtidos:
 
 **CT-005** O sistema deve disponibilizar um campo para o usuário registrar comentários sobre os conteúdos da plataforma.  
 Procedimentos:  
-Resultados esperados:  
-Resultados obtidos:  
+1. Ao final das abas "Cursos", "Influencers", "Livros", "Podcast", "Planilhas" e "Aplicativos" na barra de navegação superior contém o campo para comentários, com  espaços para serem preenchidos com o nome do usuário e seu comentário.
+2. Clicar em "Publicar" após escrever o nome e o comentário.
+
+Resultados esperados:
+1. Ao preencher os campos de "nome" e "comentário", e clicar em "Publicar" o usuário deve receber um alerta de que o comentário foi publicado e visualizar o resultado de seu comentário abaixo.
+
+Resultados obtidos:
+1. Ao preencher os campos de "nome" e "comentário", e clicar em "Publicar" o histórico de comentário aparece abaixo.
+
+![coment_1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/coment1.png)
+![coment_2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/coment2.png)
 
 **CT-006** O sistema deve listar os principais influenciadores digitais que ministram conteúdo de educação financeira.  
 Procedimentos:  
@@ -70,6 +79,8 @@ Resultados esperados:
 
 Resultados obtidos:
 1. Ao clicar em "Curtir" presente no conteúdo de "Aplicativos" listados, apareceu um pop-up redirecionando para login no Facebook.
+
+![like_1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/like1.png)
 
 **CT-008** O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças.  
 
