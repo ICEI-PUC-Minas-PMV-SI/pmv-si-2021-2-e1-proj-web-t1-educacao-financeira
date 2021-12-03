@@ -99,12 +99,25 @@ Resultados obtidos:
 Procedimentos:  
 1. Clicar em “Influencers” na barra de navegação superior.
 2. A partir da página "Influencers” serão exibidos cards com sugestões de influenciadores e respectiva apresentação.
-3. Clicar nos botões de redes sociais do influenciador escolhido.
-4. Clicar no botão "Curtir"/"Compartilhar".
+3. Reproduzir os vídeos sugeridos do influenciador.
+4. Clicar nos botões de redes sociais do influenciador escolhido.
 
 Resultados esperados:  
-Resultados obtidos:  
+1. Ao clicar em “Influencers” o usuário será redirecionado para página de influenciadores (../influencers.html);
+2. A página deve conter indicações de influenciadores, assim como suas respectivas apresentações e redes sociais.
+3. Ao clicar no botão "play", o vídeo do influenciador começará a ser reproduzido.
+4. Ao clicar nas redes sociais do influenciador escolhido, o usuário será direcionado para a página do influenciador.
 
+Resultados obtidos:  
+1. Ao clicar em “Influencers” ocorreu o redirecionamento para a página de influenciadores.
+2. A página de influenciadores lista em cards alguns dos principais influenciadores de educação financeira e suas respectivas informações.
+3. Ao clicar em "play", o vídeo do influenciador começou a ser reproduzido.
+4. Ao clicar na rede social escolhida, houve o redirecionamendo para a página do influenciador.
+
+![app_1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/influencers1.jpg)  
+![app_2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/influencers2.jpg)
+![app_3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/influencers3.jpg)
+![app_3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/influencers4.jpg)
 
 **CT-007** O sistema deve oferecer a ferramenta “like” para o usuário fazer avaliação dos conteúdos disponibilizados na plataforma.  
 Procedimentos:  
