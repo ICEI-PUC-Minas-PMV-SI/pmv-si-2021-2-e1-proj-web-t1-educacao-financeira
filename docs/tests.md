@@ -69,18 +69,7 @@ Resultados obtidos:
 ![book_2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/book2.jpg)
 ![book_3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/book3.jpg)
 
-**CT-004** O sistema deve disponibilizar indicações de vídeos acerca do conteúdo de finanças.  
-Procedimentos:
-1. 
-
-Resultados esperados:
-1. 
-
-Resultados obtidos:
-1.  
-
-
-**CT-005** O sistema deve disponibilizar um campo para o usuário registrar comentários sobre os conteúdos da plataforma.  
+**CT-004** O sistema deve disponibilizar um campo para o usuário registrar comentários sobre os conteúdos da plataforma.  
 Procedimentos:  
 1. Ao final das abas "Cursos", "Influencers", "Livros", "Podcast", "Planilhas" e "Aplicativos" na barra de navegação superior contém o campo para comentários, com  espaços para serem preenchidos com o nome do usuário e seu comentário.
 2. Clicar em "Publicar" após escrever o nome e o comentário.
@@ -95,7 +84,7 @@ Resultados obtidos:
 ![coment_2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/coment2.png)
 
 
-**CT-006** O sistema deve listar os principais influenciadores digitais que ministram conteúdo de educação financeira.  
+**CT-005** O sistema deve listar os principais influenciadores digitais que ministram conteúdo de educação financeira.  
 Procedimentos:  
 1. Clicar em “Influencers” na barra de navegação superior.
 2. A partir da página "Influencers” serão exibidos cards com sugestões de influenciadores e respectiva apresentação.
@@ -119,7 +108,7 @@ Resultados obtidos:
 ![app_3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/influencers3.jpg)
 ![app_3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/influencers4.jpg)
 
-**CT-007** O sistema deve oferecer a ferramenta “like” para o usuário fazer avaliação dos conteúdos disponibilizados na plataforma.  
+**CT-006** O sistema deve oferecer a ferramenta “like” para o usuário fazer avaliação dos conteúdos disponibilizados na plataforma.  
 Procedimentos:  
 1. Clica em "Material de Apoio" na barra de navegação superior, a partir será exibido um menu suspenso, onde deverá clicar em "Aplicativos";
 2. O material da qual o usuário gostar, é possível apoiar o conteúdo;
@@ -134,7 +123,7 @@ Resultados obtidos:
 ![like_1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/like1.png)
 
 
-**CT-008** O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças.  
+**CT-007** O sistema deve listar os principais App´s utilizados para a obtenção de conhecimento, gestão e controle de finanças.  
 
 Procedimentos:  
 - Clicar em  “Material de Apoio” na barra de navegação superior.
@@ -154,7 +143,7 @@ Resultados obtidos:
 ![app_3](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-2-e1-proj-web-t1-educacao-financeira/blob/main/docs/image_test/app3.jpg)
  
 
-**CT-009** O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira.
+**CT-008** O usuário deve ser capaz de visualizar e acessar sugestões de planilhas de gestão financeira.
 
 Procedimentos:
 
