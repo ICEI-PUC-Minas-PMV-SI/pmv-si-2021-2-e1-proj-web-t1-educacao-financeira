@@ -6,7 +6,7 @@
 
 `SEMESTRE: 1º`
 
-Devido ao crescente interesse de pessoas, principalmente jovens, em melhorar sua educação financeira, houve também um aumento significativo de conteúdos relacionados a este universo sendo disponibilizados na internet. Este aumento de conteúdo é positivo, porém, a grande quantidade de opções disponíveis pode confundir mais do que ajudar a escolha do iniciante.
+Devido ao crescente interesse de pessoas, principalmente jovens, em melhorar sua educação financeira, houve também um aumento significativo de conteúdos relacionados a este universo sendo disponibilizados na internet. Este aumento de conteúdo é positivo, porém, a grande quantidade de opções disponíveis pode confundir mais do que ajudar na escolha do iniciante.
 
 Criada em 2021, a FinHub tem como objetivo reunir em um só lugar os principais tópicos relacionados à educação financeira, proporcionando aos usuário que estão iniciando neste universo, a oportunidade de encontrar de forma rápida e fácil indicações sobre: cursos, livros, influenciadores, podcasts, aplicativos e planilhas de controle financeiro. Além de interagir sobre os conteúdos postados, os usuários também poderão sugerir novidades para o portal.
 
